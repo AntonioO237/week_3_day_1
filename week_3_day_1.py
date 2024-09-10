@@ -2,88 +2,47 @@
 # # This week we will work on :
 # # Working With Strings
 
-
 # # 1.   Working With Numbers
 # # 2.   Getting Input From Users
-
-
-
 
 # # 1.   Building a Basic Calculator
 # # 2.   Mad Libs Game
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # # Review
 # create variables for the following :
 # 1. age
+age = 25 #integer variable
 # 2. name
+name = "John" #string variable 
 # 3. song
+song = "Happy Birthday" #strimg variable 
 # 4. food
+food = "apples" #string variable
 # 5. number
-
+number = 1000 #integer variable 
 
 # #now include the variables you just made print in the following...
-
-
 # Once upon a time, there was a [age] old coder named [name].
+# Concatenation --- "+" around your variable 
+print("Once upon a time, there was a " + str(age) + " old coder named " + name + ".")
+print("There was a number " + str(number) + " as well.")
+print("The " + str(age) + " year old coder has a favorite number, it's " + str(number) + ".")
 
+date_of_birth = 2021
+number2 = 123
+number3 = 123.456
+number4 = 123.33
+number5 = 4555
+print("There was a baby born in " + str(date_of_birth) + ".")
+print("He wants to annoy us by printing " + str(number2) + ", " + str(number3) + ", " + str(number4) + " and " + str(number5) + ".")
+
+print(f"The date of birth is {date_of_birth} and the number is {number2} and the number is {number3} and the number is {number4} and the number is {number5}.")
+# f strings help you create concatenation without the use of "+" and "str"
 
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
 
-
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##########################################################################################
 # The names you use when creating these labels need to follow a few rules:
