@@ -38,6 +38,7 @@ print("He wants to annoy us by printing " + str(number2) + ", " + str(number3) +
 
 print(f"The date of birth is {date_of_birth} and the number is {number2} and the number is {number3} and the number is {number4} and the number is {number5}.")
 # f strings help you create concatenation without the use of "+" and "str"
+# CHANGES
 
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
 
