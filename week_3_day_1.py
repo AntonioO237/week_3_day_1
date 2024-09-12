@@ -170,7 +170,7 @@ print(min(newNum1,newNum2))
 print(abs(newNum1))
 print(floor(newNum1))
 print(ceil(newNum1))
-print(newNum1)
+# print(newNum1) I DONT KNOW HOW TO DO SQUARE ROOT
 
 # # mad libs game
 # print("Roses are {color}")
