@@ -162,6 +162,16 @@ print(round(num1))
 
 ##########################################################################################
 
+newNum1 = int(input("Please give me number:"))
+newNum2 = int(input("Please give me another number:"))
+print(newNum1 - newNum2)
+print(newNum1/newNum2)
+print(min(newNum1,newNum2))
+print(abs(newNum1))
+print(floor(newNum1))
+print(ceil(newNum1))
+print(newNum1)
+
 # # mad libs game
 # print("Roses are {color}")
 # print("{plural noun} are blue")
