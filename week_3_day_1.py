@@ -43,9 +43,11 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
+
 ##########################################################################################
 
 ##########################################################################################
+
 # The names you use when creating these labels need to follow a few rules:
 # 1. Names can not start with a number.
 # 2. There can be no spaces in the name, use _ instead.
@@ -55,22 +57,19 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 #    or 'I' (uppercase letter eye) as single character variable names.
 # 6. Avoid using words that have special meaning in Python like "list" and "str"
 
-
 # Here are some exercises to practice the rules:
-
 
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
+# first_name
+# last_name
+# email_address
+# percent
+# variable_name
+# zero
+# list --> This is a key word in python, you can not use it for your own variable name 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
 # Creating Valid Names: Create valid names for the following descriptions:
-
 
 # The first name of a person
 # The last name of a person
@@ -78,39 +77,19 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # The percentage of marks obtained by a student
 # A variable to store the number of items in a shopping cart
 
-
-
-
 # Identify Valid and Invalid Names: Identify which of the following names are valid or invalid according to the rules:
-
 
 # first_name
 # lastName
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# one_variable
+# email_address
+# percentage
+# real_word
 
 ############################################################################################
-
 
 # # **Working with** **numbers** **bold text**
 # We'll learn about the following topics:
