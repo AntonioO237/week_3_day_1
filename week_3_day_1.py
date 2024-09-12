@@ -89,6 +89,8 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # percentage
 # real_word
 
+# Edits for Week 3 Day 2
+
 ############################################################################################
 
 # # **Working with** **numbers** **bold text**
